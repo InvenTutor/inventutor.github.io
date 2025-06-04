@@ -5,10 +5,6 @@
 Need help? Join our [Discord server](https://dsc.gg/inventutor)!
 :::
 
-:::note
-This exists as a plugin! [Basic Moderation Commands]() AAAAAAAAAAAAAAAAAAAAAAAAAA
-:::
-
 ***
 
 ## Video Tutorial

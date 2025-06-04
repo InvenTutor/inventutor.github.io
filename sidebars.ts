@@ -46,9 +46,9 @@ const sidebars: SidebarsConfig = {
           type: 'category',
           label: 'Beginner Tutorials',
           items: [
-            'tutorials/beginner/how-to-invite-your-friends-to-edit-your-bot',
+            'tutorials/beginner/how-to-invite-friends-to-edit-your-bot',
             'tutorials/beginner/how-to-create-reaction-roles',
-            'tutorials/beginner/how-to-create-a-welcomer',
+            'tutorials/beginner/how-to-create-an-welcomer',
             'tutorials/beginner/how-to-create-sticky-messages',
             'tutorials/beginner/how-to-make-an-say-command',
             'tutorials/beginner/how-to-create-moderation-commands',

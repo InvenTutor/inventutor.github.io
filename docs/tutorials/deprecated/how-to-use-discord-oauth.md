@@ -11,7 +11,7 @@ Reason: The old Library listing was deleted during a transition to the new Libra
 
 ## Resources
 
-* Inventor listing link: <mark style="color:red;">Deleted</mark>
+* Inventor listing link: Deleted
 * Discord Developer page: [https://discord.com/developers/applications](https://discord.com/developers/applications)
 
 ***

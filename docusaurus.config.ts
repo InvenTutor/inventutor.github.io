@@ -136,6 +136,11 @@ const config: Config = {
       ],
       copyright: `InvenTutor is not affiliated with Inventor.gg. <a href="/docs/legal/affiliation-disclaimer">Learn more.</a>`,
     },
+    colorMode: {
+      defaultMode: 'dark',
+      disableSwitch: true,
+      respectPrefersColorScheme: false,
+    },
     prism: {
       theme: prismThemes.github,
       darkTheme: prismThemes.dracula,
