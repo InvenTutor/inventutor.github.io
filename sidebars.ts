@@ -16,7 +16,7 @@ const sidebars: SidebarsConfig = {
   tutorialSidebar: [
     {
       type: 'link',
-      label: '💙 Discord Support',
+      label: '💙 Discord Support ',
       href: 'https://dsc.gg/inventutor',
     },
     {
