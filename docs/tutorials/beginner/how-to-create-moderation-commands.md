@@ -1,33 +1,23 @@
----
-description: Secure and moderate your server with custom commands..
-icon: hammer
-cover: ../.gitbook/assets/mod2.png
-coverY: 0
----
-
 # How to create Moderation Commands
+*Secure and moderate your server with custom commands..*
 
-{% hint style="success" %}
-### Tip
-
+:::tip
 Need help? Join our [Discord server](https://dsc.gg/inventutor)!
-{% endhint %}
+:::
 
-{% hint style="info" %}
-### Note
-
-This exists as a plugin! [Basic Moderation Commands](https://app.gitbook.com/s/rdxtGKsBLWI7Wgs4Ad9N/basic-moderation-commands "mention")
-{% endhint %}
+:::note
+This exists as a plugin! [Basic Moderation Commands]() AAAAAAAAAAAAAAAAAAAAAAAAAA
+:::
 
 ***
 
 ## Video Tutorial
 
-{% embed url="https://www.youtube.com/watch?v=ma3aPSiFy5U" %}
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ma3aPSiFy5U?si=IUQzS9kSHHx84-gV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-{% hint style="success" %}
+:::success Note
 Leave a like on the video if you've found it helpful! 😄
-{% endhint %}
+:::
 
 ***
 
@@ -38,5 +28,5 @@ Leave a like on the video if you've found it helpful! 😄
 ***
 
 ## Credits
-
-<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>8BiToe</strong></td><td><em>Video</em></td><td><a href="../.gitbook/assets/icon.png">icon.png</a></td><td><a href="https://8bitoe.carrd.co/">https://8bitoe.carrd.co/</a></td></tr></tbody></table>
+- [8BiToe](https://8bitoe.carrd.co)
+  - Video

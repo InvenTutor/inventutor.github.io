@@ -1,28 +1,19 @@
----
-description: Run repetitive actions using a single block..
-icon: block-brick
-cover: ../.gitbook/assets/cbs.png
-coverY: 0
----
-
 # How to use Custom Blocks
+*Run repetitive actions using a single block..*
 
-{% hint style="success" %}
-### Tip
-
+:::tip
 Need help? Join our [Discord server](https://dsc.gg/inventutor)!
-{% endhint %}
+:::
 
 ***
 
 ## Video Tutorial
 
-{% embed url="https://www.youtube.com/watch?v=NexDUJbNqJ4" %}
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/NexDUJbNqJ4?si=cYAKk8jj2NSwvJ22" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-{% hint style="success" %}
+:::success Note
 Leave a like on the video if you've found it helpful! 😄
-{% endhint %}
-
+:::
 ***
 
 ## Written Tutorial
@@ -32,5 +23,5 @@ Leave a like on the video if you've found it helpful! 😄
 ***
 
 ## Credits
-
-<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><strong>CallMeSirEntertainment</strong></td><td><em>Video</em></td><td><a href="https://cmse.carrd.co/">https://cmse.carrd.co/</a></td><td><a href="../.gitbook/assets/image.jpg">image.jpg</a></td></tr></tbody></table>
+- [CallMeSirEntertainment](https://cmse.carrd.co/)
+  - Video

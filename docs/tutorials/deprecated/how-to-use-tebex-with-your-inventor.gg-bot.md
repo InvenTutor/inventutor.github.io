@@ -1,4 +1,5 @@
 # How to use Tebex with your Inventor.gg bot
+*Sell coins, subscriptions, commissions..*
 
 :::danger Disclaimer
 This tutorial is **deprecated**.

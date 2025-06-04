@@ -1,17 +1,11 @@
----
-description: Secure your server, get advanced information..
-icon: lock-keyhole
----
-
 # How to use Discord OAuth
+*Secure your server, get advanced information..*
 
-{% hint style="danger" %}
-### **Disclaimer**
-
+:::danger Disclaimer
 This tutorial is **deprecated**.
 
 Reason: The old Library listing was deleted during a transition to the new Library.
-{% endhint %}
+:::
 
 ***
 
@@ -24,11 +18,11 @@ Reason: The old Library listing was deleted during a transition to the new Libra
 
 ## Video Tutorial
 
-{% embed url="https://www.youtube.com/watch?v=gQUeAf99m6I" %}
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/gQUeAf99m6I?si=gSnOOOUQG-X_HUqi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-{% hint style="success" %}
+:::success Note
 Leave a like on the video if you've found it helpful! 😄
-{% endhint %}
+:::
 
 ***
 
@@ -39,5 +33,5 @@ Leave a like on the video if you've found it helpful! 😄
 ***
 
 ## Credits
-
-<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>8BiToe</strong></td><td><em>Video</em></td><td><a href=".gitbook/assets/icon.png">icon.png</a></td><td><a href="https://8bitoe.carrd.co/">https://8bitoe.carrd.co/</a></td></tr></tbody></table>
+- [8BiToe](https://8bitoe.carrd.co)
+  - Video

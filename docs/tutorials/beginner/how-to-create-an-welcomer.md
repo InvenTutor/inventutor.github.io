@@ -1,27 +1,19 @@
----
-description: Run any action when a user joins your server..
-icon: hand-wave
-cover: ../.gitbook/assets/thumbnail.png
-coverY: 0
----
-
 # How to create an Welcomer
+*Run any action when a user joins your server..*
 
-{% hint style="success" %}
-### Tip
-
+:::tip
 Need help? Join our [Discord server](https://dsc.gg/inventutor)!
-{% endhint %}
+:::
 
 ***
 
 ## Video Tutorial
 
-{% embed url="https://youtu.be/4wURm-KNRC8" %}
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/4wURm-KNRC8?si=HN7eLFCxX3fYBthP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-{% hint style="success" %}
+:::success Note
 Leave a like on the video if you've found it helpful! 😄
-{% endhint %}
+:::
 
 ***
 
@@ -32,5 +24,6 @@ Leave a like on the video if you've found it helpful! 😄
 ***
 
 ## Credits
-
-<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>8BiToe</strong></td><td><em>Video + Voice-over</em></td><td><a href="../.gitbook/assets/icon.png">icon.png</a></td><td><a href="https://8bitoe.carrd.co/">https://8bitoe.carrd.co/</a></td></tr></tbody></table>
+- [8BiToe](https://8bitoe.carrd.co)
+  - Video
+  - Voice-over
