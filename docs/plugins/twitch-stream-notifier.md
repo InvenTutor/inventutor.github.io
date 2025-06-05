@@ -1,20 +1,12 @@
----
-description: Documentation for the Twitch Stream Notifier plugin.
-icon: twitch
----
-
 # Twitch Stream Notifier
 
-{% hint style="info" %}
-### Disclaimer
-
-This plugin uses the InvenTutor Pro system. Please check the [About InvenTutor Pro](https://app.gitbook.com/s/6H1YA21Oj3zO6OvS8OBs/about-inventutor-pro "mention") page before installing.
-{% endhint %}
+:::note Disclaimer
+This plugin uses the InvenTutor Pro system. Please check the [About InvenTutor Pro](/docs/about-inventutor-pro.md) page before installing.
+:::
 
 ***
 
 ## Features
-
 * Follow unlimited amount of streamers
 * Multi-server
 * Per-server Notification channel
@@ -22,6 +14,5 @@ This plugin uses the InvenTutor Pro system. Please check the [About InvenTutor P
 
 ***
 
-## [⭐ Pro](https://app.gitbook.com/s/6H1YA21Oj3zO6OvS8OBs/about-inventutor-pro) Features
-
+## [⭐ Pro](/docs/about-inventutor-pro.md) Features
 * No Branding

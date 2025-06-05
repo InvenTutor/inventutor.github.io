@@ -1,23 +1,15 @@
----
-description: Easily integrate the ER:LC API into your components and plugins!
-icon: webhook
----
-
 # Integrate API Into Components
+*Easily integrate the ER:LC API into your components and plugins.*
 
-{% hint style="danger" %}
-### Warning
-
+:::danger Warning
 This is an [⭐ InvenTutor Pro](https://app.gitbook.com/s/6H1YA21Oj3zO6OvS8OBs/about-inventutor-pro) feature.
-{% endhint %}
+:::
 
 To use the ER:LC API externally by utilizing the ER:LC API Commands plugin, use the **8BiToe's ER:LC Global Variables System** (8ERLCGVS).
 
-{% hint style="warning" %}
-### **Disclaimer**
-
+:::warning Disclaimer
 Using this system requires intermediate knowledge of string manipulation!
-{% endhint %}
+:::
 
 ***
 
@@ -34,15 +26,11 @@ TL:DR - You will save time and headaches :)
 
 ## Usage Examples
 
-**Automatic Game Messages**
-
+#### Automatic Game Messages
 * Every 15 Minutes Trigger
 * Send ER:LC API Request (/command, :h Hello!)
 
-
-
-**Custom Moderation Integration**
-
+#### Custom Moderation Integration
 * Slash Command Trigger
 * Get Row (Custom database with Discord User ID and Roblox name)
 * Send ER:LC API Request (/command, :ban RobloxName)
@@ -51,23 +39,19 @@ TL:DR - You will save time and headaches :)
 
 ***
 
-{% hint style="info" %}
-### Note
-
+:::note
 A "Check if ER:LC Server API Key is Valid" Custom Block will be made sometime later for integration convenience.
-{% endhint %}
+:::
 
-{% hint style="warning" %}
-### **Warning for Plugin Creators**
-
+:::warning Warning for Plugin Creators
 Inventor Library moderators may deny your plugin if it entirely depends on this system. Please make your plugins work without this system, or make your own.
-{% endhint %}
+:::
 
 ***
 
 ## Custom Blocks
 
-View all available Components on the [Components](https://app.gitbook.com/s/Wgg5UEieyb00BnVJqAjk/erlc-api-commands-plugin-examples) page.
+View all available Components on the [Components](/components/erlc-api-commands-plugin-examples.md) page.
 
 ***
 
@@ -77,118 +61,55 @@ Use the "Send ER:LC API Request" Custom Block to add a Request to the Request Qu
 
 Use the `uuid tracking` Output Variable if you need to track your request.
 
-<figure><img src="../../.gitbook/assets/players.avif" alt=""><figcaption><p>Players Example</p></figcaption></figure>
+*Players Example:* ![Players Example](/plugins/erlc-api-cmds/players.avif)
 
-<figure><img src="../../.gitbook/assets/cmd.avif" alt=""><figcaption><p>Run a Command Example</p></figcaption></figure>
+*Run a Command Example:* ![Run a Command Example](/plugins/erlc-api-cmds/cmd.avif)
 
 ***
 
 ## How to Read the Response
 
-{% hint style="warning" %}
-### Warning
-
+:::danger Warning
 The plugin checks for Global Variables **every minute**! (Due to "Global Variable Created" not being a trigger.)
 
 You need to make your systems in a way that check the result every minute instead of immediately expecting a response.
 
 Bump [this suggestion](https://forum.inventor.gg/t/global-variable-created-trigger/4767?u=8bitoe) if you want the "Global Variable Created" trigger added.
-{% endhint %}
+:::
 
 Use the "Receive ER:LC API Response" Custom Block to read the responses of a request.
 
-<figure><img src="../../.gitbook/assets/receive.avif" alt=""><figcaption></figcaption></figure>
+![Receive ER:LC API Response](/plugins/erlc-api-cmds/receive.avif)
 
-#### Reply Examples:
+### Reply Examples:
 
-<details>
+#### Server Status
 
-<summary>Server Status</summary>
+#### Players
 
+#### Join Logs
 
+#### Queue
 
-</details>
+#### Kill Logs
 
-<details>
+#### Command Logs
 
-<summary>Players</summary>
+#### Moderator Call Logs
 
+#### Bans
 
+#### Vehicles
 
-</details>
-
-<details>
-
-<summary>Join Logs</summary>
-
-
-
-</details>
-
-<details>
-
-<summary>Queue</summary>
+#### Run a Command
 
 
-
-</details>
-
-<details>
-
-<summary>Kill Logs</summary>
-
-
-
-</details>
-
-<details>
-
-<summary>Command Logs</summary>
-
-
-
-</details>
-
-<details>
-
-<summary>Moderator Call Logs</summary>
-
-
-
-</details>
-
-<details>
-
-<summary>Bans</summary>
-
-
-
-</details>
-
-<details>
-
-<summary>Vehicles</summary>
-
-
-
-</details>
-
-<details>
-
-<summary>Run a Command</summary>
-
-
-
-</details>
-
-{% hint style="info" %}
-### Note
-
+:::note
 Reply examples will be added later.
-{% endhint %}
+:::
 
 Returned data is separated by Newlines and `|||`. Use string blocks to retrieve these values.
 
 Each separate string is JSON encoded. Use this example to parse the value correctly:
 
-<figure><img src="../../.gitbook/assets/parse.avif" alt=""><figcaption></figcaption></figure>
+![Parse Example](/plugins/erlc-api-cmds/parse.avif)

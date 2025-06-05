@@ -1,26 +1,19 @@
----
-description: Documentation for the Birthdays plugin.
-icon: cake-candles
----
-
 # Birthdays
 
-{% hint style="info" %}
-### Disclaimer
-
-This plugin uses the InvenTutor Pro system. Please check the [About InvenTutor Pro](https://app.gitbook.com/s/6H1YA21Oj3zO6OvS8OBs/about-inventutor-pro "mention") page before installing.
-{% endhint %}
+:::note Disclaimer
+This plugin uses the InvenTutor Pro system. Please check the [About InvenTutor Pro](/docs/about-inventutor-pro.md) page before installing.
+:::
 
 ***
 
 ## Features
 
-* Multi-server compatible - Only get messages about users that are in your server
+* Multi-server compatible - *Only get messages about users that are in your server*
 * User and server settings
 
 ***
 
-## [⭐ Pro](https://app.gitbook.com/s/6H1YA21Oj3zO6OvS8OBs/about-inventutor-pro) Features
+## [⭐ Pro](/docs/about-inventutor-pro.md) Features
 
 * No Branding (Including removing the InvenTutor tag from the image)
 
@@ -28,7 +21,7 @@ This plugin uses the InvenTutor Pro system. Please check the [About InvenTutor P
 
 ## Add-ons
 
-* [erlc-api-commands](in-development/erlc-api-commands/ "mention") - Announce birthday in ER:LC server
+* [ER:LC API Commands](in-development/erlc-api-commands/) - Announce birthday in ER:LC server
 
 ***
 
@@ -37,6 +30,4 @@ This plugin uses the InvenTutor Pro system. Please check the [About InvenTutor P
 * Birthday Role (Get role on birthday, remove tomorrow)
 * ER:LC Integration
 * Live Countdown
-* Image Generator
-
-<figure><img src=".gitbook/assets/Snímek obrazovky 2025-05-24 175337.png" alt=""><figcaption></figcaption></figure>
+* Image Generator ![Image Generator](/plugins/birthdays/image-gen.png)

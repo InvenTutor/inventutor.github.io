@@ -1,20 +1,12 @@
----
-description: Documentation for the Invite Tracker plugin.
-icon: envelope-open
----
-
 # Invite Tracker
 
-{% hint style="info" %}
-### Disclaimer
-
-This plugin uses the InvenTutor Pro system. Please check the [About InvenTutor Pro](https://app.gitbook.com/s/6H1YA21Oj3zO6OvS8OBs/about-inventutor-pro "mention") page before installing.
-{% endhint %}
+:::note Disclaimer
+This plugin uses the InvenTutor Pro system. Please check the [About InvenTutor Pro](/docs/about-inventutor-pro.md) page before installing.
+:::
 
 ***
 
 ## Features
-
 * Track which invite joiner used
 * JSON API
 * Multi-server compatible
@@ -22,14 +14,12 @@ This plugin uses the InvenTutor Pro system. Please check the [About InvenTutor P
 
 ***
 
-## [⭐ Pro](https://app.gitbook.com/s/6H1YA21Oj3zO6OvS8OBs/about-inventutor-pro) Features
-
+## [⭐ Pro](/docs/about-inventutor-pro.md) Features
 * No Branding
 
 ***
 
 ## Planned Features
-
 * Inviter data - How many users this user invited etc.
 * User leaderboards
 * Point assigning
