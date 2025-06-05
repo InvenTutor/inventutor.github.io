@@ -21,7 +21,7 @@ const QuickLinksData = [
   },
   {
     title: '🧩 ER:LC API Commands',
-    link: '/docs/useful-tools', // Adjust link if this points to a specific API doc
+    link: '/plugins/in-development/erlc-api-commands', // Adjust link if this points to a specific API doc
     backgroundImage: 'url(/docs/home/erlc.png)', // Make sure this image exists in static/img/
   },
   {
