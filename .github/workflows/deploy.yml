@@ -18,15 +18,25 @@ jobs:
           node-version: 18
           cache: npm
 
+      # Clear npm cache forcefully
       - name: Clear npm cache
         run: npm cache clean --force
 
+      # Verify npm registry and reset corrupted tarballs
+      - name: Fix npm registry issues
+        run: |
+          npm config set registry https://registry.npmjs.org/
+          npm ci --force
+
+      # Install dependencies
       - name: Install dependencies
         run: npm ci
 
+      # Build website
       - name: Build website
         run: npm run build
 
+      # Upload Build Artifact
       - name: Upload Build Artifact
         uses: actions/upload-pages-artifact@v3
         with:
