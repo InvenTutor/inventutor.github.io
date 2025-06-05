@@ -4,14 +4,6 @@ This repository contains the official documentation site for InvenTutor - a comm
 
 ## About
 
-InvenTutor documentation includes:
-- Detailed tutorials for beginners and advanced users
-- Plugin documentation and setup guides
-- Components library and usage examples
-- Legal information and guidelines
-
-## Features
-
 - 📚 Comprehensive documentation
 - 🎥 Video tutorials with written guides
 - 🔌 Plugin documentation with setup instructions
