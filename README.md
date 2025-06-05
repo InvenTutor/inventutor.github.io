@@ -28,7 +28,7 @@ We welcome contributions from the community. Feel free to:
 
 ## Legal
 
-InvenTutor is not affiliated with Inventor.gg. For more information, see our [Affiliation Disclaimer](docs/legal/affiliation-disclaimer.md).
+InvenTutor is not affiliated with Inventor.gg. For more information, see our [Affiliation Disclaimer](https://inventutor.github.io/docs/legal/affiliation-disclaimer).
 
 ## Links
 
