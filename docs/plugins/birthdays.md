@@ -1,11 +1,5 @@
 # Birthdays
 
-:::note Disclaimer
-This plugin uses the InvenTutor Pro system. Please check the [About InvenTutor Pro](/docs/about-inventutor-pro.md) page before installing.
-:::
-
-***
-
 ## Features
 
 * Multi-server compatible - *Only get messages about users that are in your server*

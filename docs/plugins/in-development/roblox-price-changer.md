@@ -1,11 +1,5 @@
 # Roblox Price Changer
 
-:::note Disclaimer
-This plugin uses the InvenTutor Pro system. Please check the [About InvenTutor Pro](/docs/about-inventutor-pro.md) page before installing.
-:::
-
-***
-
 :::success Release News
 This plugin is ready to be released, but we're waiting for a bug fix: Autocompletes in Slash commands don't work in installed plugins.
 :::

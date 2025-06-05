@@ -1,11 +1,5 @@
 # Basic Moderation Commands
 
-:::note Disclaimer
-This plugin uses the InvenTutor Pro system. Please check the [About InvenTutor Pro](/docs/about-inventutor-pro.md) page before installing.
-:::
-
-***
-
 ## Install
 
 - [📎 View on Inventor](https://inventor.gg/library/listing/8fdfb5b6-f418-4d77-8673-321157111813?ref=462196939455201281)

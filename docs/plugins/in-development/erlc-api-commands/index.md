@@ -1,11 +1,5 @@
 # ER:LC API Commands
 
-:::note Disclaimer
-This plugin uses the InvenTutor Pro system. Please check the [About InvenTutor Pro](/docs/about-inventutor-pro.md) page before installing.
-:::
-
-***
-
 :::success Release News
 This plugin is pending due to an bug reported [here](https://forum.inventor.gg/t/flow-attempting-to-use-an-non-existant-cb/4633/3?u=8bitoe).
 :::
