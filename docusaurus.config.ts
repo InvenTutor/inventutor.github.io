@@ -5,7 +5,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
 const config: Config = {
-  title: 'InvenTutor Docs',
+  title: 'InvenTutor',
   tagline: 'The best content for your Inventor.gg bots.',
   favicon: 'img/favicon.ico',
 
@@ -63,7 +63,7 @@ const config: Config = {
     // Replace with your project's social card
     image: 'img/social-cover.png',
     navbar: {
-      title: 'InvenTutor Docs',
+      title: 'InvenTutor',
       logo: {
         alt: 'InvenTutor Logo',
         src: 'img/logo.svg',
