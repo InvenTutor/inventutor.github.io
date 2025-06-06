@@ -17,17 +17,17 @@ const QuickLinksData = [
     title: '🎬 How to create Moderation Commands',
     link: '/t/b/how-to-create-moderation-commands',
     // Add an optional background image for the "cover" button
-    backgroundImage: 'url(/d/home/mod-cmds.png)', // Make sure this image exists in static/img/
+    backgroundImage: 'url(/home/mod-cmds.png)', // Make sure this image exists in static/img/
   },
   {
     title: '🧩 ER:LC API Commands',
     link: '/p/dev/erlc-api-commands', // Adjust link if this points to a specific API doc
-    backgroundImage: 'url(/d/home/erlc.png)', // Make sure this image exists in static/img/
+    backgroundImage: 'url(/home/erlc.png)', // Make sure this image exists in static/img/
   },
   {
     title: '💬 Join the Community',
     link: 'https://dsc.gg/inventutor', // External link
-    backgroundImage: 'url(/d/home/discord.png)', // Make sure this image exists in static/img/
+    backgroundImage: 'url(/home/discord.png)', // Make sure this image exists in static/img/
   },
 ];
 
