@@ -1,3 +1,5 @@
+/* thank you t3 chat with gemini */
+
 /**
  * Any CSS included here will be global. The classic template
  * bundles Infima by default. Infima is a CSS framework designed to
@@ -17,6 +19,73 @@
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
 }
 
+/* 1. Ensure HTML and Body stretch and have no default spacing */
+html, body {
+  height: 100%; /* Ensures they take at least full viewport height */
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden; /* Prevent horizontal scrollbar if elements go off-screen */
+}
+
+/* 2. Apply your background to the HTML element (most reliable for full page) */
+html {
+  background-color: #1c1c1c; /* YOUR DESIRED BACKGROUND COLOR */
+  /* If you want an image: */
+  /* background-image: url('/img/your-background.png'); */
+  /* background-repeat: no-repeat; */
+  /* background-size: cover; */ /* Make sure image covers the whole area */
+  /* background-position: center center; */
+  /* background-attachment: scroll; */ /* Make background scroll with content */
+}
+
+/* 3. Make Docusaurus's main content wrappers transparent or match your background */
+/*    This is crucial to "see" the HTML background through the content. */
+
+/* Main content wrapper for Docs/Blog */
+.main-wrapper {
+  background-color: transparent; /* Allows HTML background to show through */
+  /* Or if you want it to be a specific color for the content section, set it here.
+     e.g., background-color: rgba(255, 255, 255, 0.8); for a translucent white.
+  */
+}
+
+/* Main content wrapper for src/pages (like your homepage) */
+main {
+  background-color: transparent; /* Also make main content area transparent */
+}
+
+/* Target the Docusaurus navbar explicitly */
+.navbar {
+  background-color: #23211f; /* Your desired color */
+  /* This is important: ensure it doesn't inherit default variables */
+  background-image: none; /* Remove any default gradient */
+}
+
+/* Also ensure text/link colors are set if needed */
+.navbar__title,
+.navbar__item,
+.navbar__link {
+  color: #ffffff;
+}
+
+/* If the above doesn't work, let's try overriding the theme variables */
+/* This is a common Docusaurus pattern */
+:root {
+  --ifm-navbar-background-color: #1c1c1c; /* For light mode */
+  /* --ifm-navbar-shadow: none; */ /* Optional: remove navbar shadow */
+}
+
+html[data-theme='dark'] {
+  --ifm-navbar-background-color: #1c1c1c; /* For dark mode */
+}
+
+/* Ensure navbar items inherit text color if needed */
+.navbar__item.navbar__link {
+  color: var(--ifm-navbar-link-color); /* Or direct color like #ffffff */
+}
+
+
+
 /* For readability concerns, you should choose a lighter palette in dark mode. */
 [data-theme='dark'] {
   --ifm-color-primary: #fdbd24;
@@ -34,7 +103,7 @@
 }
 
 .footer {
-  background-color: #333333;
+  background-color: #23211f;
 
   /* background-color: #2e8555; /* Docusaurus green */
   /* background-color: #f0f0f0; /* Light grey */

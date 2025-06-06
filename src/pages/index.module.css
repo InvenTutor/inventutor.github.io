@@ -20,12 +20,13 @@
 }
 
 .section {
-  background-color: var(--ifm-background-color); /* Default background */
-  /* Add padding or other section-level styling here */
+  background-color: transparent; /* <-- Make the section background transparent */
+  padding: var(--ifm-spacing-vert-lg) 0; /* Keep padding */
+  /* Add other section-level styling here if needed */
 }
 
-.disclaimerSection {
-  background-color: var(--ifm-color-emphasis-100); /* Slightly different background for disclaimer */
+.disclaimerSection { /* If you removed this in your index.tsx, you can remove it here too */
+  background-color: transparent; /* Make this transparent too */
   border-top: 1px solid var(--ifm-fieldset-border-color);
   border-bottom: 1px solid var(--ifm-fieldset-border-color);
 }
