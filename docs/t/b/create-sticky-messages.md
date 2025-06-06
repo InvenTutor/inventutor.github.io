@@ -24,6 +24,5 @@ Leave a like on the video if you've found it helpful! 😄
 ***
 
 ## Credits
-
-- [8BiToe](https://8bitoe.carrd.co)
-  - Video
+- **[8BiToe](https://8bitoe.carrd.co)**
+  - *Video*

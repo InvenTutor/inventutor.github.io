@@ -15,7 +15,7 @@ import styles from './index.module.css'; // Ensure this file exists and contains
 const QuickLinksData = [
   {
     title: '🎬 How to create Moderation Commands',
-    link: '/t/b/how-to-create-moderation-commands',
+    link: '/t/b/create-moderation-commands',
     // Add an optional background image for the "cover" button
     backgroundImage: 'url(/home/mod-cmds.png)', // Make sure this image exists in static/img/
   },

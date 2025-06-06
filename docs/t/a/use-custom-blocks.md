@@ -23,5 +23,5 @@ Leave a like on the video if you've found it helpful! 😄
 ***
 
 ## Credits
-- [CallMeSirEntertainment](https://cmse.carrd.co/)
-  - Video
+- **[CallMeSirEntertainment](https://cmse.carrd.co/)**
+  - *Video*
