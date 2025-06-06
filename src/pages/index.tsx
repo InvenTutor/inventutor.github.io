@@ -49,7 +49,7 @@ export default function Home(): ReactNode {
   const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      title={`Home | ${siteConfig.title}`} // Custom browser tab title
+      title={`Home`} // Custom browser tab title
       description="InvenTutor provides high-quality tutorials for Inventor.gg.">
       <HomepageHeader />
       <main>
