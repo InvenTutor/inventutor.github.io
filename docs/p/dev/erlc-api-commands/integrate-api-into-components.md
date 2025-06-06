@@ -16,7 +16,7 @@ Using this system requires intermediate knowledge of string manipulation!
 ## Perks of using 8ERLCGVS
 
 * **Easier to understand** - Using this system should be easier than learning how to use APIs and formatting their results. Many endpoint results cannot be natively retrieved on Inventor, and this system returns data in a consistent easily-extractable format.
-* **Quick Implementation** - When creating your own plugins/components that aren't ER:LC focused, you don't have to waste time learning how to use the API. You can quickly integrate ER:LC features into your plugins/components.
+* **Quick Implementation** - When creating your own p/c that aren't ER:LC focused, you don't have to waste time learning how to use the API. You can quickly integrate ER:LC features into your p/c.
 * **Respects rate-limits** - By using 8ERLCGVS, you don't have to worry about rate-limits. The plugin waits until the rate-limit expires, and then executes your actions.
 * **Retrieving last data when rate-limited** - When attempting to load data while you are being rate-limited, you will be instead returned the last cached data. All data has an Unix timestamp.
 
@@ -51,7 +51,7 @@ Inventor Library moderators may deny your plugin if it entirely depends on this 
 
 ## Custom Blocks
 
-View all available Components on the [Components](/components/erlc-api-commands-plugin-examples.md) page.
+View all available Components on the [Components](/c/erlc-api-commands-plugin-examples.md) page.
 
 ***
 

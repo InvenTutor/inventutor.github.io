@@ -69,10 +69,10 @@ const config: Config = {
         src: 'img/logo.svg',
       },
       items: [
-        { to: '/docs', label: 'Docs', position: 'left' },
-        { to: '/tutorials', label: 'Tutorials', position: 'left' },
-        { to: '/plugins', label: 'Plugins', position: 'left' },
-        { to: '/components', label: 'Components', position: 'left' },
+        { to: '/d', label: 'Docs', position: 'left' },
+        { to: '/t', label: 'Tutorials', position: 'left' },
+        { to: '/p', label: 'Plugins', position: 'left' },
+        { to: '/c', label: 'Components', position: 'left' },
       ],
     },
     footer: {
@@ -83,19 +83,19 @@ const config: Config = {
           items: [
             {
               label: 'Docs',
-              to: '/docs',
+              to: '/d',
             },
             {
               label: 'Tutorials',
-              to: '/tutorials',
+              to: '/t',
             },
             {
               label: 'Plugins',
-              to: '/plugins',
+              to: '/p',
             },
             {
               label: 'Components',
-              to: '/components',
+              to: '/c',
             },
           ],
         },
@@ -121,11 +121,11 @@ const config: Config = {
           items: [
             {
               label: 'Affiliation Disclaimer',
-              to: '/docs/legal/affiliation-disclaimer',
+              to: '/d/l/affiliation-disclaimer',
             },
             {
               label: 'Useful Tools',
-              href: '/docs/useful-tools',
+              href: '/d/useful-tools',
             },
             {
               label: 'Propose Changes',
@@ -134,7 +134,7 @@ const config: Config = {
           ],
         },
       ],
-      copyright: `InvenTutor is not affiliated with Inventor.gg. <a href="/docs/legal/affiliation-disclaimer">Learn more.</a>`,
+      copyright: `InvenTutor is not affiliated with Inventor.gg. <a href="/d/l/affiliation-disclaimer">Learn more.</a>`,
     },
     colorMode: {
       defaultMode: 'dark',

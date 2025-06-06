@@ -6,7 +6,7 @@ InvenTutor Pro is an optional membership that unlocks additional features for ce
 :::danger Disclaimer
 InvenTutor Pro is a **separate** membership from any Inventor.gg subscription.
 
-InvenTutor is **not** affiliated with Inventor.gg. [Learn more.](../docs/legal/affiliation-disclaimer.md)
+InvenTutor is **not** affiliated with Inventor.gg. [Learn more.](../d/l/affiliation-disclaimer.md)
 :::
 
 ***

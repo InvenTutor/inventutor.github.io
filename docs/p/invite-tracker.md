@@ -8,7 +8,7 @@
 
 ***
 
-## [⭐ Pro](/docs/about-inventutor-pro.md) Features
+## [⭐ Pro](/d/about-inventutor-pro.md) Features
 * No Branding
 
 ***

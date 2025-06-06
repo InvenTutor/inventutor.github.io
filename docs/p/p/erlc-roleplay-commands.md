@@ -10,4 +10,4 @@
 ***
 
 ## Add-ons
-* [ER:LC API Commands](../in-development/erlc-api-commands/) - Run commands and view data
+* [ER:LC API Commands](../dev/erlc-api-commands/) - Run commands and view data

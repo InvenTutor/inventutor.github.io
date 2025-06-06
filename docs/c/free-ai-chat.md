@@ -1,7 +1,7 @@
 # Free AI Chat
 
 :::tip
-For pre-made commands and more features, use [our Plugin](../plugins/free-chat-ai.md) instead!
+For pre-made commands and more features, use [our Plugin](../p/free-chat-ai.md) instead!
 :::
 
 ***
@@ -27,7 +27,7 @@ Go to [the Keys page](https://console.groq.com/keys) and generate a key, and the
 
 ### 3. Replace the Example with your API Key
 
-Import the Custom Block from [above](#components), [activate it](../docs/how-to-activate-disabled-components.md), and then go to the `Send Network Request` block and replace `12345` in the Header with your own API Key.
+Import the Custom Block from [above](#components), [activate it](../d/how-to-activate-disabled-components.md), and then go to the `Send Network Request` block and replace `12345` in the Header with your own API Key.
 
 ### 4. Insert the Custom Block into your Components
 

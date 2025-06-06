@@ -15,19 +15,19 @@ import styles from './index.module.css'; // Ensure this file exists and contains
 const QuickLinksData = [
   {
     title: '🎬 How to create Moderation Commands',
-    link: '/tutorials/beginner/how-to-create-moderation-commands',
+    link: '/t/b/how-to-create-moderation-commands',
     // Add an optional background image for the "cover" button
-    backgroundImage: 'url(/docs/home/mod-cmds.png)', // Make sure this image exists in static/img/
+    backgroundImage: 'url(/d/home/mod-cmds.png)', // Make sure this image exists in static/img/
   },
   {
     title: '🧩 ER:LC API Commands',
-    link: '/plugins/in-development/erlc-api-commands', // Adjust link if this points to a specific API doc
-    backgroundImage: 'url(/docs/home/erlc.png)', // Make sure this image exists in static/img/
+    link: '/p/dev/erlc-api-commands', // Adjust link if this points to a specific API doc
+    backgroundImage: 'url(/d/home/erlc.png)', // Make sure this image exists in static/img/
   },
   {
     title: '💬 Join the Community',
     link: 'https://dsc.gg/inventutor', // External link
-    backgroundImage: 'url(/docs/home/discord.png)', // Make sure this image exists in static/img/
+    backgroundImage: 'url(/d/home/discord.png)', // Make sure this image exists in static/img/
   },
 ];
 

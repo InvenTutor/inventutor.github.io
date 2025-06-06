@@ -32,7 +32,7 @@ Do you want amazing colors for your embeds and roles? Use Tailwind's color picke
 Hold **Shift** and **click** on the color box to copy the Hex code of the color.
 :::
 
-- [📎 Visit](https://tailwindcss.com/docs/colors)
+- [📎 Visit](https://tailwindcss.com/d/colors)
 
 ***
 
@@ -41,7 +41,7 @@ Hold **Shift** and **click** on the color box to copy the Hex code of the color.
 Do you want to make beautiful custom images for free, and customize them freely? Use SharePreviews.
 
 :::info Fun Fact
-This tool is used in our [Birthdays](../plugins/birthdays.md) plugin!
+This tool is used in our [Birthdays](../p/birthdays.md) plugin!
 :::
 
 - [📎 Visit](https://www.sharepreviews.com/)

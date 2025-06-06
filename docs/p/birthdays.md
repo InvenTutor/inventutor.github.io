@@ -7,7 +7,7 @@
 
 ***
 
-## [⭐ Pro](/docs/about-inventutor-pro.md) Features
+## [⭐ Pro](/d/about-inventutor-pro.md) Features
 
 * No Branding (Including removing the InvenTutor tag from the image)
 
@@ -15,7 +15,7 @@
 
 ## Add-ons
 
-* [ER:LC API Commands](in-development/erlc-api-commands/) - Announce birthday in ER:LC server
+* [ER:LC API Commands](dev/erlc-api-commands/) - Announce birthday in ER:LC server
 
 ***
 

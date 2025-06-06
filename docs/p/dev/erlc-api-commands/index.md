@@ -13,11 +13,11 @@ This plugin is pending due to an bug reported [here](https://forum.inventor.gg/t
 * Easy data viewing commands
 * Run commands in a ER:LC server
 * Respects rate-limits
-* [⭐](/docs/about-inventutor-pro.md) [Easily integrate the ER:LC API into your Components](integrate-api-into-components.md)
+* [⭐](/d/about-inventutor-pro.md) [Easily integrate the ER:LC API into your Components](integrate-api-into-components.md)
 
 ***
 
-## [⭐ Pro](/docs/about-inventutor-pro.md) Features
+## [⭐ Pro](/d/about-inventutor-pro.md) Features
 
 * No Branding
 * [Integrate the API easily into Components and Plugins](integrate-api-into-components.md)

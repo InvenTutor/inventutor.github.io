@@ -1,7 +1,7 @@
 # Basic YouTube Notifier
 
 :::tip
-For multiple channels, fancy UI, and easier integration, use [our Plugin](../plugins/planned/youtube-video-notifier.md) instead!
+For multiple channels, fancy UI, and easier integration, use [our Plugin](../p/p/youtube-video-notifier.md) instead!
 :::
 
 ***

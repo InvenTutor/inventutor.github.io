@@ -12,7 +12,7 @@ Reason: Tebex doesn't seem to allow Discord servers as a shop option anymore.
 ## Resources
 
 - **Tebex User Variable:** `{discordId}`
-- **Components:** [Tebex Purchases Handler](/components/tebex-purchases-handler)
+- **Components:** [Tebex Purchases Handler](/c/tebex-purchases-handler)
 
 ***
 

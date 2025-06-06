@@ -16,7 +16,7 @@ This plugin is ready to be released, but we're waiting for a bug fix: Autocomple
 
 ***
 
-## [⭐ Pro](/docs/about-inventutor-pro.md) Features
+## [⭐ Pro](/d/about-inventutor-pro.md) Features
 
 * No Branding
 
