@@ -69,10 +69,10 @@ const config: Config = {
         src: 'img/logo.svg',
       },
       items: [
-        { to: '/d', label: 'Docs', position: 'left' },
-        { to: '/t', label: 'Tutorials', position: 'left' },
-        { to: '/p', label: 'Plugins', position: 'left' },
-        { to: '/c', label: 'Components', position: 'left' },
+        { to: '/d', label: '📙 Docs', position: 'left' },
+        { to: '/t', label: '🎬 Tutorials', position: 'left' },
+        { to: '/p', label: '🧩 Plugins', position: 'left' },
+        { to: '/c', label: '⚡ Components', position: 'left' },
       ],
     },
     footer: {
