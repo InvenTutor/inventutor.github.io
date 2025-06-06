@@ -145,6 +145,12 @@ const config: Config = {
       theme: prismThemes.github,
       darkTheme: prismThemes.dracula,
     },
+
+    metadata: [
+      { name: 'theme-color', content: '#fdbd24' },
+      // { property: 'og:image', content: 'https://inventutor.github.io/img/social-cover.png' },
+    ],
+
   } satisfies Preset.ThemeConfig,
 };
 
