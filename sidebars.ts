@@ -49,7 +49,7 @@ const sidebars: SidebarsConfig = {
             't/b/invite-friends-to-edit-your-bot',
             't/b/create-reaction-roles',
             't/b/create-an-welcomer',
-            't/b/messages',
+            't/b/create-sticky-messages',
             't/b/make-an-say-command',
             't/b/create-moderation-commands',
             't/b/use-modals',
