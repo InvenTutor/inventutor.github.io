@@ -1,4 +1,5 @@
 # Twitch Stream Notifier
+*Get notified of new Twitch streams from multiple channels.*
 
 ## Features
 * Follow unlimited amount of streamers
@@ -8,5 +9,5 @@
 
 ***
 
-## [⭐ Pro](/d/about-inventutor-pro.md) Features
+## [⭐ Pro](https://inventutor-shop.fourthwall.com/pages/about-inventutor-pro) Features
 * No Branding

@@ -1,4 +1,5 @@
 # Tebex Purchases Handler
+*Handle Tebex purchases.*
 
 ## Components
 

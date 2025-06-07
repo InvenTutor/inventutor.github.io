@@ -1,4 +1,5 @@
 # Basic YouTube Notifier
+*Get notified of new YouTube uploads from a specific channel.*
 
 :::tip
 For multiple channels, fancy UI, and easier integration, use [our Plugin](../p/p/youtube-video-notifier.md) instead!

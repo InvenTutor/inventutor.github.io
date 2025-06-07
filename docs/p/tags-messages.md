@@ -1,4 +1,5 @@
 # Tags Messages
+*Create preset chat messages for quick use.*
 
 ## Features
 * Per-server tags
@@ -6,5 +7,5 @@
 
 ***
 
-## [⭐ Pro](/d/about-inventutor-pro.md) Features
+## [⭐ Pro](https://inventutor-shop.fourthwall.com/pages/about-inventutor-pro) Features
 * No Branding

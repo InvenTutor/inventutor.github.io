@@ -1,4 +1,5 @@
 # ER:LC Roleplay Commands
+*Enhance your ER:LC Discord server with this plugin.*
 
 ## Planned Features
 

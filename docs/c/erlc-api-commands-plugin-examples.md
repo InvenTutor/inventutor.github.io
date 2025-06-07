@@ -1,4 +1,5 @@
 # ER:LC API Commands - Plugin Examples
+*Extra features for the ER:LC API Commands plugin.*
 
 ## Components
 

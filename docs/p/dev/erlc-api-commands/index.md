@@ -1,4 +1,5 @@
 # ER:LC API Commands
+*Manage your ER:LC servers using your Inventor.gg bot.*
 
 :::success Release News
 This plugin is pending due to an bug reported [here](https://forum.inventor.gg/t/flow-attempting-to-use-an-non-existant-cb/4633/3?u=8bitoe).
@@ -13,11 +14,11 @@ This plugin is pending due to an bug reported [here](https://forum.inventor.gg/t
 * Easy data viewing commands
 * Run commands in a ER:LC server
 * Respects rate-limits
-* [⭐](/d/about-inventutor-pro.md) [Easily integrate the ER:LC API into your Components](integrate-api-into-components.md)
+* [⭐](https://inventutor-shop.fourthwall.com/pages/about-inventutor-pro) [Easily integrate the ER:LC API into your Components](integrate-api-into-components.md)
 
 ***
 
-## [⭐ Pro](/d/about-inventutor-pro.md) Features
+## [⭐ Pro](https://inventutor-shop.fourthwall.com/pages/about-inventutor-pro) Features
 
 * No Branding
 * [Integrate the API easily into Components and Plugins](integrate-api-into-components.md)

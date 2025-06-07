@@ -1,4 +1,5 @@
 # Free Chat AI
+*Use Free AI chat features in your bot.*
 
 ## Features
 * Easy setup using Plugin Settings
@@ -6,7 +7,7 @@
 
 ***
 
-## [⭐ Pro](/d/about-inventutor-pro.md) Features
+## [⭐ Pro](https://inventutor-shop.fourthwall.com/pages/about-inventutor-pro) Features
 * No Branding
 
 ***

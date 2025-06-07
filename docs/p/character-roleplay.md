@@ -1,4 +1,5 @@
 # Character Roleplay
+*Roleplay as any custom character easily.*
 
 ## Features
 
@@ -8,7 +9,7 @@
 
 ***
 
-## [⭐ Pro](/d/about-inventutor-pro.md) Features
+## [⭐ Pro](https://inventutor-shop.fourthwall.com/pages/about-inventutor-pro) Features
 
 * No Branding
 

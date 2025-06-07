@@ -1,4 +1,5 @@
 # Discord API Examples
+*API examples for Discord endpoints.*
 
 ## Components
 

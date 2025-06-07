@@ -1,4 +1,5 @@
 # Free AI Chat
+*Integrate an Free AI into any of your Components.*
 
 :::tip
 For pre-made commands and more features, use [our Plugin](../p/free-chat-ai.md) instead!

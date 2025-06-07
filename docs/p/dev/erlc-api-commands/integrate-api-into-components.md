@@ -2,7 +2,7 @@
 *Easily integrate the ER:LC API into your components and plugins.*
 
 :::danger Warning
-This is an [⭐ InvenTutor Pro](https://app.gitbook.com/s/6H1YA21Oj3zO6OvS8OBs/about-inventutor-pro) feature.
+This is an [⭐ InvenTutor Pro](https://inventutor-shop.fourthwall.com/pages/about-inventutor-pro) feature.
 :::
 
 To use the ER:LC API externally by utilizing the ER:LC API Commands plugin, use the **8BiToe's ER:LC Global Variables System** (8ERLCGVS).

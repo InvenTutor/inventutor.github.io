@@ -1,4 +1,5 @@
 # Invite Tracker
+*Easily track who invited who into your server.*
 
 ## Features
 * Track which invite joiner used
@@ -8,7 +9,7 @@
 
 ***
 
-## [⭐ Pro](/d/about-inventutor-pro.md) Features
+## [⭐ Pro](https://inventutor-shop.fourthwall.com/pages/about-inventutor-pro) Features
 * No Branding
 
 ***

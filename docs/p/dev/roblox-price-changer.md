@@ -1,4 +1,5 @@
 # Roblox Price Changer
+*Easily change prices of Roblox items using your Inventor.gg bot.*
 
 :::success Release News
 This plugin is ready to be released, but we're waiting for a bug fix: Autocompletes in Slash commands don't work in installed plugins.
@@ -16,7 +17,7 @@ This plugin is ready to be released, but we're waiting for a bug fix: Autocomple
 
 ***
 
-## [⭐ Pro](/d/about-inventutor-pro.md) Features
+## [⭐ Pro](https://inventutor-shop.fourthwall.com/pages/about-inventutor-pro) Features
 
 * No Branding
 

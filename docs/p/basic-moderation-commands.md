@@ -1,4 +1,5 @@
 # Basic Moderation Commands
+*Effortlessly manage your Server with this plugin.*
 
 ## Install
 
@@ -15,6 +16,6 @@
 
 ***
 
-## [⭐ Pro](/d/about-inventutor-pro.md) Features
+## [⭐ Pro](https://inventutor-shop.fourthwall.com/pages/about-inventutor-pro) Features
 
 * No Branding

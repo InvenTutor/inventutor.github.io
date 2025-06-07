@@ -1,4 +1,5 @@
 # Basic TikTok Notifier
+*Get notified of new TikTok uploads from a specific user.*
 
 ## Components
 

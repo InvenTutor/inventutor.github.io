@@ -25,7 +25,6 @@ const sidebars: SidebarsConfig = {
       items: [
         'd/index',
         'd/official-links-and-staff-list',
-        'd/about-inventutor-pro',
         'd/useful-tools',
         {
           type: 'category',

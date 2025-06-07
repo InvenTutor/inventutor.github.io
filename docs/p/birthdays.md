@@ -1,4 +1,5 @@
 # Birthdays
+*Get notified about your Server member's birthdays.*
 
 ## Features
 
@@ -7,7 +8,7 @@
 
 ***
 
-## [⭐ Pro](/d/about-inventutor-pro.md) Features
+## [⭐ Pro](https://inventutor-shop.fourthwall.com/pages/about-inventutor-pro) Features
 
 * No Branding (Including removing the InvenTutor tag from the image)
 
