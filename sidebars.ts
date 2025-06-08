@@ -45,6 +45,7 @@ const sidebars: SidebarsConfig = {
           type: 'category',
           label: 'Beginner Tutorials',
           items: [
+            't/b/use-ai-for-free-in-components',
             't/b/invite-friends-to-edit-your-bot',
             't/b/create-reaction-roles',
             't/b/create-an-welcomer',

@@ -13,6 +13,7 @@ For pre-made commands and more features, use [our Plugin](../p/free-chat-ai.md) 
 
 - [🪄 Import](https://inventor.gg/dash/share/component/439df1bdb9d84a0f919d8b5363a84fca)
 - [📙 Documentation](#how-to-use)
+- [🎬 Video Tutorial](../t/b/use-ai-for-free-in-components.md)
 
 ***
 
