@@ -1,34 +1,38 @@
-GNU GENERAL PUBLIC LICENSE
-Version 3, June 2025
+# Documentation License
 
-TERMS AND CONDITIONS
+Copyright © 2025 InvenTutor. All rights reserved.
 
-0. Definitions.
+Permission is hereby granted to any person accessing this repository ("the Documentation") to view and read its contents for personal purposes only, subject to the following terms and conditions:
 
-    This License applies to any program or other work which contains a notice placed by the copyright holder stating it may be distributed under the terms of this General Public License.
+## 1. Grant of Limited Rights
 
-1. Source Code.
+The copyright holder grants a limited, revocable, non-transferable, non-exclusive license to:
 
-    The "source code" for a work means the preferred form of the work for making modifications to it.
+- Access and read the Documentation for personal use;
+- Submit contributions (e.g., issues, pull requests, suggestions) directly to this repository, subject to Section 4 below.
 
-2. Basic Permissions.
+## 2. Restrictions
 
-    All rights granted under this License are granted for the term of copyright on the Program, and are irrevocable provided the stated conditions are met.
+Except as expressly permitted in Section 1, you shall not:
 
-3. Protecting Users' Legal Rights From Anti-Circumvention Law.
+- Copy, reproduce, or distribute the Documentation, in whole or in part, by any means or medium;
+- Modify, adapt, or create derivative works based on the Documentation outside the context of a contribution to this repository;
+- Remove, obscure, or alter any copyright or proprietary notices.
 
-    No covered work shall be deemed part of an effective technological measure under any applicable law fulfilling obligations under article 11 of the WIPO copyright treaty.
+## 3. No Commercial Use
 
-4. Conveying Verbatim Copies.
+Commercial use of the Documentation is strictly prohibited. This includes but is not limited to use in paid courses, commercial publications, proprietary software, or monetized platforms.
 
-    You may convey verbatim copies of the Program's source code as you receive it, in any medium, provided that you conspicuously and appropriately publish on each copy an appropriate copyright notice.
+## 4. Contributions
 
-5. Conveying Modified Source Versions.
+By submitting any content to this repository, including but not limited to text, corrections, or code snippets ("Contributions"), you hereby grant the copyright holder an irrevocable, perpetual, royalty-free license to use, reproduce, modify, and incorporate such Contributions into the Documentation, under the same terms as this license.
 
-    You may convey a work based on the Program, or the modifications to produce it from the Program, in the form of source code under the terms of Section 4.
+You represent that you have the legal right to submit any Contributions and that doing so does not infringe upon any third-party rights.
 
-6. Disclaimer of Warranty.
+## 5. Disclaimer of Warranty
 
-    There is no warranty for the program, to the extent permitted by applicable law. Unless otherwise stated in writing, the copyright holders and/or other parties provide the program "AS IS" without warranty of any kind.
+THE DOCUMENTATION IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM OR IN CONNECTION WITH THE USE OF THE DOCUMENTATION.
 
-END OF TERMS AND CONDITIONS
+## 6. Contact
+
+For licensing inquiries, commercial use requests, or other permissions, please contact: 8bitoe+inventutor@gmail.com
