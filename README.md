@@ -11,7 +11,7 @@ This repository contains the official documentation site for InvenTutor - a comm
 
 ## Technology
 Built with:
-- [Docusaurus](https://docusaurus.io/)
+- Docusaurus
 - Markdown
 
 ## Contributing
