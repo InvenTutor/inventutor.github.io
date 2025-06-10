@@ -34,6 +34,14 @@ const sidebars: SidebarsConfig = {
             'd/l/branding-guidelines',
           ],
         },
+        {
+          type: 'category',
+          label: 'Content',
+          items: [
+            'd/c/activate-disabled-components',
+            'd/c/visualizing-dropdowns',
+          ],
+        },
       ],
     },
     {
