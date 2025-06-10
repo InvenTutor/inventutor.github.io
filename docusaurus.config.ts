@@ -128,7 +128,7 @@ const config: Config = {
               href: '/d/useful-tools',
             },
             {
-              label: 'Propose Changes',
+              label: 'Contribute Content',
               href: 'https://github.com/inventutor/inventutor.github.io',
             },
           ],
