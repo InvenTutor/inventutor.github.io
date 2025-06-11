@@ -110,8 +110,8 @@ const sidebars: SidebarsConfig = {
             {
               type: 'category',
               label: 'ER:LC API Commands',
+              link: {type: 'doc', id: 'p/dev/erlc-api-commands/index'},
               items: [
-                'p/dev/erlc-api-commands/index',
                 'p/dev/erlc-api-commands/integrate-api-into-components',
               ],
             },
