@@ -1,5 +1,37 @@
 /* thank you t3 chat with gemini */
 
+
+
+@font-face {
+  font-family: 'Title';
+  src: url('/fonts/inter.ttf') format('truetype');
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Normal';
+  src: url('/fonts/bricolage.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+body {
+  font-family: 'Normal', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Title', sans-serif;
+}
+
+:root {
+  --ifm-font-family-base: 'Normal', sans-serif;
+  /* --ifm-font-family-monospace: 'Fira Code', monospace; */ /* Keep this if you have a custom monospace font */
+}
+
+
 /**
  * Any CSS included here will be global. The classic template
  * bundles Infima by default. Infima is a CSS framework designed to
