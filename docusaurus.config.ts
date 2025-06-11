@@ -125,7 +125,7 @@ const config: Config = {
             },
             {
               label: '📌 Useful Tools',
-              href: '/d/useful-tools',
+              href: '/t/g/useful-tools',
             },
             {
               label: '✨ Contribute Content',

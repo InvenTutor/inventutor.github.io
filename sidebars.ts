@@ -25,7 +25,6 @@ const sidebars: SidebarsConfig = {
       link: {type: 'doc', id: 'd/index'},
       items: [
         'd/official-links',
-        'd/useful-tools',
         {
           type: 'category',
           label: 'Legal',
@@ -64,6 +63,7 @@ const sidebars: SidebarsConfig = {
           label: 'Guides',
           link: {type: 'doc', id: 't/g/index'},
           items: [
+            't/g/useful-tools',
             't/g/activate-disabled-components',
             't/g/visualizing-dropdowns',
           ],
