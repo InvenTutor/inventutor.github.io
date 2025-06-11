@@ -32,7 +32,7 @@ Do you want amazing colors for your embeds and roles? Use Tailwind's color picke
 Hold **Shift** and **click** on the color box to copy the Hex code of the color.
 :::
 
-- [📎 Visit](https://tailwindcss.com/d/colors)
+- [📎 Visit](https://tailwindcss.com/docs/colors)
 
 ***
 
