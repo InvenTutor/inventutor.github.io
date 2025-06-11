@@ -37,6 +37,7 @@ const config: Config = {
       {
         docs: {
           sidebarPath: './sidebars.ts',
+          editUrl: 'https://github.com/InvenTutor/inventutor.github.io/edit/main/',
           routeBasePath: '/',
           
         },
