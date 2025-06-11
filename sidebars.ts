@@ -35,15 +35,6 @@ const sidebars: SidebarsConfig = {
             'd/l/branding-guidelines',
           ],
         },
-        {
-          type: 'category',
-          label: 'Content',
-          link: {type: 'doc', id: 'd/c/index'},
-          items: [
-            'd/c/activate-disabled-components',
-            'd/c/visualizing-dropdowns',
-          ],
-        },
       ],
     },
     {
@@ -66,6 +57,15 @@ const sidebars: SidebarsConfig = {
             't/b/use-modals',
             't/b/create-an-inventor.gg-bot',
             't/b/save-data-using-databases',
+          ],
+        },
+        {
+          type: 'category',
+          label: 'Guides',
+          link: {type: 'doc', id: 't/g/index'},
+          items: [
+            't/g/activate-disabled-components',
+            't/g/visualizing-dropdowns',
           ],
         },
         {

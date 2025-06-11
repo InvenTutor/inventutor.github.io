@@ -13,7 +13,7 @@
 ## How to Use
 
 ### 1. Import and Activate the flow
-[Import the flow](#basic-tiktok-notifier-1) and then [activate](../d/c/activate-disabled-components.md) it.
+[Import the flow](#basic-tiktok-notifier-1) and then [activate](../t/g/activate-disabled-components.md) it.
 
 ### 2. Set the Username
 Replace `USERNAME` in the trigger with the username of the TikTok channel you want to get notified about.
