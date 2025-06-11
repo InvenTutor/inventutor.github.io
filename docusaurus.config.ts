@@ -82,19 +82,19 @@ const config: Config = {
           title: 'Content',
           items: [
             {
-              label: 'Docs',
+              label: '📙 Docs',
               to: '/d',
             },
             {
-              label: 'Tutorials',
+              label: '🎬 Tutorials',
               to: '/t',
             },
             {
-              label: 'Plugins',
+              label: '🧩 Plugins',
               to: '/p',
             },
             {
-              label: 'Components',
+              label: '⚡ Components',
               to: '/c',
             },
           ],
@@ -103,15 +103,15 @@ const config: Config = {
           title: 'Community',
           items: [
             {
-              label: 'YouTube',
+              label: '❤️ YouTube',
               href: 'https://www.youtube.com/@InvenTutor',
             },
             {
-              label: 'Discord',
+              label: '💙 Discord',
               href: 'https://dsc.gg/inventutor',
             },
             {
-              label: 'Merch',
+              label: '🤍 Merch',
               href: 'https://inventutor-shop.fourthwall.com',
             },
           ],
@@ -120,15 +120,15 @@ const config: Config = {
           title: 'More',
           items: [
             {
-              label: 'Affiliation Disclaimer',
+              label: '📄 Affiliation Disclaimer',
               to: '/d/l/affiliation-disclaimer',
             },
             {
-              label: 'Useful Tools',
+              label: '📌 Useful Tools',
               href: '/d/useful-tools',
             },
             {
-              label: 'Contribute Content',
+              label: '✨ Contribute Content',
               href: 'https://github.com/inventutor/inventutor.github.io',
             },
           ],
