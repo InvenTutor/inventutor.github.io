@@ -22,13 +22,14 @@ const sidebars: SidebarsConfig = {
     {
       type: 'category',
       label: '📙 Docs',
+      link: {type: 'doc', id: 'd/index'},
       items: [
-        'd/index',
-        'd/official-links-and-staff-list',
+        'd/official-links',
         'd/useful-tools',
         {
           type: 'category',
           label: 'Legal',
+          link: {type: 'doc', id: 'd/l/index'},
           items: [
             'd/l/affiliation-disclaimer',
             'd/l/branding-guidelines',
@@ -37,6 +38,7 @@ const sidebars: SidebarsConfig = {
         {
           type: 'category',
           label: 'Content',
+          link: {type: 'doc', id: 'd/c/index'},
           items: [
             'd/c/activate-disabled-components',
             'd/c/visualizing-dropdowns',
@@ -47,11 +49,12 @@ const sidebars: SidebarsConfig = {
     {
       type: 'category',
       label: '🎬 Tutorials',
+      link: {type: 'doc', id: 't/index'},
       items: [
-        't/index',
         {
           type: 'category',
           label: 'Beginner Tutorials',
+          link: {type: 'doc', id: 't/b/index'},
           items: [
             't/b/use-ai-for-free-in-components',
             't/b/invite-friends-to-edit-your-bot',
@@ -68,6 +71,7 @@ const sidebars: SidebarsConfig = {
         {
           type: 'category',
           label: 'Advanced Topics',
+          link: {type: 'doc', id: 't/a/index'},
           items: [
             't/a/make-staff-applications',
             't/a/automatically-moderate-messages',
@@ -77,6 +81,7 @@ const sidebars: SidebarsConfig = {
         {
           type: 'category',
           label: 'Deprecated',
+          link: {type: 'doc', id: 't/d/index'},
           items: [
             't/d/use-discord-oauth',
             't/d/use-tebex-with-your-inventor.gg-bot',
@@ -87,8 +92,8 @@ const sidebars: SidebarsConfig = {
     {
       type: 'category',
       label: '🧩 Plugins',
+      link: {type: 'doc', id: 'p/index'},
       items: [
-        'p/index',
         'p/active-developer-badge',
         'p/basic-moderation-commands',
         'p/birthdays',
@@ -100,8 +105,8 @@ const sidebars: SidebarsConfig = {
         {
           type: 'category',
           label: 'In Development',
+          link: {type: 'doc', id: 'p/dev/index'},
           items: [
-            'p/dev/index',
             {
               type: 'category',
               label: 'ER:LC API Commands',
@@ -116,8 +121,8 @@ const sidebars: SidebarsConfig = {
         {
           type: 'category',
           label: 'Planned',
+          link: {type: 'doc', id: 'p/p/index'},
           items: [
-            'p/p/index',
             'p/p/erlc-roleplay-commands',
             'p/p/roblox-group-manager',
             'p/p/youtube-video-notifier',
@@ -130,8 +135,8 @@ const sidebars: SidebarsConfig = {
     {
       type: 'category',
       label: '⚡ Components',
+      link: {type: 'doc', id: 'c/index'},
       items: [
-        'c/index',
         'c/basic-tiktok-notifier',
         'c/discord-api-examples',
         'c/free-ai-chat',

@@ -20,9 +20,3 @@ Leave a like on the video if you've found it helpful! 😄
 ## Written Tutorial
 
 
-
-***
-
-## Credits
-- **[8BiToe](https://8bitoe.carrd.co)*
-  - *Video*
