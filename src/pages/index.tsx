@@ -25,7 +25,7 @@ const QuickLinksData = [
     backgroundImage: 'url(/home/erlc.png)', // Make sure this image exists in static/img/
   },
   {
-    title: '💬 Join the Community',
+    title: '💙 Get Support & Chat',
     link: 'https://dsc.gg/inventutor', // External link
     backgroundImage: 'url(/home/discord.png)', // Make sure this image exists in static/img/
   },
