@@ -61,6 +61,13 @@ const config: Config = {
   ],
 
   themeConfig: {
+    algolia: {
+      appId: '49TR54D39T',
+      apiKey: '85b255848094fc89a1b60396de5a62d4',
+      indexName: 'inventutorio',
+      contextualSearch: true,
+    },
+    
     // Replace with your project's social card
     image: 'img/social-cover.png',
     navbar: {
