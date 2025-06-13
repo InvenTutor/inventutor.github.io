@@ -32,8 +32,7 @@ This plugin is pending due to an bug reported [here](https://forum.inventor.gg/t
 * ER:LC API action triggers  - Example: a player joins the game: a GV gets created
 * Inventor plan Network Request limit usage protector depending on plan
 * Higher rate-limits (Global API key requests are currently closed)
-* Channel game stats
-* Channel game stats example from a ER:LC server managing service ![Channel game stats example from a ER:LC server managing service](/plugins/erlc-api-cmds/erlcvcstats.webp)
+* Channel game stats ![Channel game stats example from a ER:LC server managing service](/plugins/erlc-api-cmds/erlcvcstats.webp)
 
 #### Long-term:
 
