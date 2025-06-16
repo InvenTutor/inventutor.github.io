@@ -33,7 +33,7 @@ export default function YouTubeEmbed({ videoId, title }: YouTubeEmbedProps) {
           />
           <div className={styles.overlay}>
             <div className={styles.privacyMessage}>
-              This content is hosted on YouTube. By clicking, you agree to YouTube's{' '}
+              This content is hosted on YouTube. By clicking on this section, you agree to YouTube's{' '}
               <a
                 href="https://www.youtube.com/t/privacy"
                 target="_blank"
@@ -45,7 +45,7 @@ export default function YouTubeEmbed({ videoId, title }: YouTubeEmbedProps) {
               .
             </div>
             <button className={styles.playButton} aria-label={`Play video: ${title}`}>
-              ▶
+              <span className={styles.playSymbol}>▶</span>
             </button>
           </div>
         </div>

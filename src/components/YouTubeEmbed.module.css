@@ -113,13 +113,8 @@
     transform: scale(1.05);
   }
   
-  /* Optional: Fade in the video */
-  /* (Keep this if you like, it's not the cause of the current issue) */
-  /* .videoContainer.showVideo iframe {
-    opacity: 0;
-    animation: fadeIn 0.5s forwards;
+  .playSymbol {
+    line-height: 1; 
+    transform: translateX(3.5px); 
+    display: inline-block;
   }
-  @keyframes fadeIn {
-    from { opacity: 0; }
-    to { opacity: 1; }
-  } */
