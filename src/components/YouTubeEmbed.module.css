@@ -1,0 +1,125 @@
+/* Stealing these YouTube player parts will result in breaking Rule 2 in the License. */
+
+.videoContainer {
+    position: relative;
+    width: 100%;
+    padding-bottom: 56.25%; /* 16:9 aspect ratio */
+    height: 0;
+    overflow: hidden;
+    margin-bottom: 1rem;
+    background-color: black;
+    border-radius: var(--ifm-border-radius);
+    /* cursor: pointer; */ /* Removed here, cursor set on placeholder */
+  }
+  
+  /* Base styles for the iframe */
+  .videoContainer iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border: 0;
+    border-radius: var(--ifm-border-radius);
+  }
+  
+  /* Styles for the placeholder when video is not loaded */
+  .placeholder {
+    position: absolute; /* Make it absolutely positioned to fill the videoContainer */
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center; /* Center content horizontally */
+    align-items: center;     /* Center content vertically */
+    background-color: black;
+    cursor: pointer;
+    border-radius: var(--ifm-border-radius);
+    /* z-index: 1; */ /* Not strictly needed here, as it's the main placeholder */
+  }
+  
+  .thumbnail {
+    position: absolute; /* Position thumbnail absolutely to fill the placeholder */
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover; /* Cover the container, crop if needed */
+    display: block;
+    z-index: 1; /* Place it below the overlay */
+    border-radius: var(--ifm-border-radius);
+  }
+  
+  .overlay {
+    position: absolute; /* Make overlay absolutely positioned to fill placeholder */
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.6); /* Semi-transparent dark overlay */
+    display: flex;
+    flex-direction: column;
+    justify-content: center; /* Vertically center content */
+    align-items: center; /* Horizontally center content */
+    color: white;
+    text-align: center;
+    padding: 1rem;
+    z-index: 2; /* Place overlay above thumbnail, but below privacy message/button */
+    border-radius: var(--ifm-border-radius);
+  }
+  
+  .privacyMessage {
+    font-size: 0.9em;
+    margin-bottom: 15px;
+    max-width: 80%;
+    line-height: 1.4;
+    text-shadow: 1px 1px 3px rgba(0,0,0,0.8);
+    /* New: Ensure message is on top of overlay within the flex container */
+    position: relative;
+    z-index: 3;
+  }
+  
+  .privacyMessage a {
+    color: var(--ifm-color-info);
+    text-decoration: underline;
+    font-weight: bold;
+  }
+  .privacyMessage a:hover {
+    color: var(--ifm-color-info-dark);
+  }
+  
+  .playButton {
+    font-size: 3em;
+    background-color: rgba(255, 0, 0, 0.8);
+    color: white;
+    border: none;
+    border-radius: 50%;
+    width: 60px;
+    height: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    transition: background-color 0.3s ease, transform 0.2s ease;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+    /* New: Ensure button is on top of overlay within the flex container */
+    position: relative;
+    z-index: 3;
+  }
+  
+  .playButton:hover {
+    background-color: red;
+    transform: scale(1.05);
+  }
+  
+  /* Optional: Fade in the video */
+  /* (Keep this if you like, it's not the cause of the current issue) */
+  /* .videoContainer.showVideo iframe {
+    opacity: 0;
+    animation: fadeIn 0.5s forwards;
+  }
+  @keyframes fadeIn {
+    from { opacity: 0; }
+    to { opacity: 1; }
+  } */

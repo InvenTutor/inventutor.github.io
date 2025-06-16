@@ -1,3 +1,5 @@
+import YouTubeEmbed from '@site/src/components/YouTubeEmbed';
+
 # How to Save Data using Databases
 *Make leveling, economy, stats..*
 
@@ -17,7 +19,7 @@ Take each row as a unique user.
 
 ## Video Tutorial
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Tj7DJtbMurI?si=faAk-BAjSYFysN_I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<YouTubeEmbed videoId="Tj7DJtbMurI" title="YouTube Video" />
 
 :::success Note
 Leave a like on the video if you've found it helpful! 😄

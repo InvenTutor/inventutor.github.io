@@ -25,6 +25,7 @@ const sidebars: SidebarsConfig = {
       link: {type: 'doc', id: 'd/index'},
       items: [
         'd/official-links',
+      //  'd/discord-server-rules',
         {
           type: 'category',
           label: 'Legal',

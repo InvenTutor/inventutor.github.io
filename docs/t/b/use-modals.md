@@ -1,3 +1,5 @@
+import YouTubeEmbed from '@site/src/components/YouTubeEmbed';
+
 # How to use Modals
 *+ How to Send and Receive Data using Button/Modal IDs*
 
@@ -21,7 +23,7 @@ Sending data using Modal IDs begins at `2:35`.
 
 ## Video Tutorial
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/NpKj9afGzBk?si=kleM69_4mg6Zjol-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<YouTubeEmbed videoId="NpKj9afGzBk" title="YouTube Video" />
 
 :::success Note
 Leave a like on the video if you've found it helpful! 😄

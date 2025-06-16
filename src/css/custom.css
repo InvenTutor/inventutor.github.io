@@ -49,6 +49,7 @@ h1, h2, h3, h4, h5, h6 {
   --ifm-color-primary-lightest: #f3dfaf;
   --ifm-code-font-size: 95%;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+  --ifm-border-radius: 10px;
 }
 
 /* 1. Ensure HTML and Body stretch and have no default spacing */

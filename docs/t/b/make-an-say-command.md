@@ -1,3 +1,5 @@
+import YouTubeEmbed from '@site/src/components/YouTubeEmbed';
+
 # How to make an /say command
 *+ How to use "Send Data" and "Get Data" blocks*
 
@@ -21,7 +23,7 @@ Take each Modal as a separate Button.
 
 ## Video Tutorial
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/AeDBwxqwYOc?si=VaSmssH1L63XYiqa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<YouTubeEmbed videoId="AeDBwxqwYOc" title="YouTube Video" />
 
 :::success Note
 Leave a like on the video if you've found it helpful! 😄
