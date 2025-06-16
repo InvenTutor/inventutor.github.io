@@ -1,4 +1,4 @@
-import YouTubeEmbed from '@site/src/components/YouTubeEmbed';
+import YouTubeEmbed from '@site/src/components/YouTubeEmbed/YouTubeEmbed';
 
 # How to create Sticky Messages
 *Pin important messages..*

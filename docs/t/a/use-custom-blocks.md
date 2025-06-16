@@ -1,4 +1,4 @@
-import YouTubeEmbed from '@site/src/components/YouTubeEmbed';
+import YouTubeEmbed from '@site/src/components/YouTubeEmbed/YouTubeEmbed';
 
 # How to use Custom Blocks
 *Run repetitive actions using a single block..*

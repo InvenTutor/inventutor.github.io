@@ -1,4 +1,3 @@
-// src/components/Button.tsx
 import React from 'react';
 import Link from '@docusaurus/Link';
 import clsx from 'clsx';

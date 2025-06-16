@@ -1,4 +1,4 @@
-import YouTubeEmbed from '@site/src/components/YouTubeEmbed';
+import YouTubeEmbed from '@site/src/components/YouTubeEmbed/YouTubeEmbed';
 
 # How to Check User's Roles
 *Prevent users without a specific role to run your command..*

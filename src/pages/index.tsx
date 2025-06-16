@@ -7,7 +7,7 @@ import Layout from '@theme/Layout';
 import Heading from '@theme/Heading';
 
 // Import your new Button component
-import Button from '@site/src/components/Button';
+import Button from '@site/src/components/Button/Button';
 
 import styles from './index.module.css'; // Ensure this file exists and contains .heroBanner, .buttons, .section and .grid
 

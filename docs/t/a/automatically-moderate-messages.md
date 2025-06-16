@@ -1,4 +1,4 @@
-import YouTubeEmbed from '@site/src/components/YouTubeEmbed';
+import YouTubeEmbed from '@site/src/components/YouTubeEmbed/YouTubeEmbed';
 
 # How to Automatically Moderate Messages
 *Do custom actions when a member sends a bad word..*

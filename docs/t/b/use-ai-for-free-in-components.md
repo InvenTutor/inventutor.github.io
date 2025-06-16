@@ -1,4 +1,4 @@
-import YouTubeEmbed from '@site/src/components/YouTubeEmbed';
+import YouTubeEmbed from '@site/src/components/YouTubeEmbed/YouTubeEmbed';
 
 # How to use AI for Free in Components
 *Integrate AI for free in any component..*
