@@ -11,7 +11,7 @@ Need help? Join our [Discord server](https://dsc.gg/inventutor)!
 
 ## Video Tutorial
 
-<YouTubeEmbed videoId="NexDUJbNqJ4" title="YouTube Video" />
+<YouTubeEmbed videoId="NexDUJbNqJ4" title="How to use Custom Blocks" />
 
 :::success Note
 Leave a like on the video if you've found it helpful! 😄

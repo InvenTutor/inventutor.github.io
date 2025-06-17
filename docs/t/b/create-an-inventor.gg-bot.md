@@ -19,7 +19,7 @@ Need help? Join our [Discord server](https://dsc.gg/inventutor)!
 - `01:47` - Inviting the bot to your server
 - `02:11` - Testing the command
 
-<YouTubeEmbed videoId="MQ_fkbbXUTE" title="YouTube Video" />
+<YouTubeEmbed videoId="MQ_fkbbXUTE" title="How to create an Inventor.gg bot" />
 
 :::success Note
 Leave a like on the video if you've found it helpful! 😄

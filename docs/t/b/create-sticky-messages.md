@@ -11,7 +11,7 @@ Need help? Join our [Discord server](https://dsc.gg/inventutor)!
 
 ## Video Tutorial
 
-<YouTubeEmbed videoId="oahLdtxzfUc" title="YouTube Video" />
+<YouTubeEmbed videoId="oahLdtxzfUc" title="How to create Sticky Messages" />
 
 :::success Note
 Leave a like on the video if you've found it helpful! 😄

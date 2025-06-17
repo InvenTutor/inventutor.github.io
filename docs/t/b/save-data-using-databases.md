@@ -19,7 +19,7 @@ Take each row as a unique user.
 
 ## Video Tutorial
 
-<YouTubeEmbed videoId="Tj7DJtbMurI" title="YouTube Video" />
+<YouTubeEmbed videoId="Tj7DJtbMurI" title="How to Save Data using Databases" />
 
 :::success Note
 Leave a like on the video if you've found it helpful! 😄

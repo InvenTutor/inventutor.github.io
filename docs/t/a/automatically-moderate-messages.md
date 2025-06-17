@@ -11,7 +11,7 @@ Need help? Join our [Discord server](https://dsc.gg/inventutor)!
 
 ## Video Tutorial
 
-<YouTubeEmbed videoId="H-VAmsNr2Gs" title="YouTube Video" />
+<YouTubeEmbed videoId="H-VAmsNr2Gs" title="How to Automatically Moderate Messages" />
 
 :::success Note
 Leave a like on the video if you've found it helpful! 😄

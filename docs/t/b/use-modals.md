@@ -23,7 +23,7 @@ Sending data using Modal IDs begins at `2:35`.
 
 ## Video Tutorial
 
-<YouTubeEmbed videoId="NpKj9afGzBk" title="YouTube Video" />
+<YouTubeEmbed videoId="NpKj9afGzBk" title="How to use Modals" />
 
 :::success Note
 Leave a like on the video if you've found it helpful! 😄

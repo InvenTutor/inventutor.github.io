@@ -29,3 +29,7 @@ If you can't find out the Channel ID of the YouTube Channel, use an external too
 
 ### 2. Replace Discord Channel ID in the message block
 Replace `1234` with the ID of the Discord channel where you want the message to be sent.
+
+## Credits
+- **[Ukxoid](https://discord.com/users/1251642853692539091)**
+  - *Submission*

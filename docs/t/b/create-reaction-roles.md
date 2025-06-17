@@ -11,7 +11,7 @@ Need help? Join our [Discord server](https://dsc.gg/inventutor)!
 
 ## Video Tutorial
 
-<YouTubeEmbed videoId="NPuXVR0jHls" title="YouTube Video" />
+<YouTubeEmbed videoId="NPuXVR0jHls" title="How to create Reaction Roles" />
 
 :::success Note
 Leave a like on the video if you've found it helpful! 😄

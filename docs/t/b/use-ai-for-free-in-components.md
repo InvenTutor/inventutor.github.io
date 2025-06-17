@@ -17,7 +17,7 @@ Need help? Join our [Discord server](https://dsc.gg/inventutor)!
 
 ## Video Tutorial
 
-<YouTubeEmbed videoId="NpSBU-MjMlk" title="YouTube Video" />
+<YouTubeEmbed videoId="NpSBU-MjMlk" title="How to use AI for Free in Components" />
 
 :::success Note
 Leave a like on the video if you've found it helpful! 😄

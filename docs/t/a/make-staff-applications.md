@@ -11,7 +11,7 @@ Need help? Join our [Discord server](https://dsc.gg/inventutor)!
 
 ## Video Tutorial
 
-<YouTubeEmbed videoId="vZmYcFYTgJo" title="YouTube Video" />
+<YouTubeEmbed videoId="vZmYcFYTgJo" title="How to make Staff Applications" />
 
 :::success Note
 Leave a like on the video if you've found it helpful! 😄

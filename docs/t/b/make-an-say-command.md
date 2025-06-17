@@ -23,7 +23,7 @@ Take each Modal as a separate Button.
 
 ## Video Tutorial
 
-<YouTubeEmbed videoId="AeDBwxqwYOc" title="YouTube Video" />
+<YouTubeEmbed videoId="AeDBwxqwYOc" title="How to make an /say command" />
 
 :::success Note
 Leave a like on the video if you've found it helpful! 😄

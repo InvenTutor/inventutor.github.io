@@ -25,7 +25,7 @@ Need help? Join our [Discord server](https://dsc.gg/inventutor)!
 - `5:53` - Using the Custom Block in any Interaction trigger
 - `7:00` - Ending
 
-<YouTubeEmbed videoId="cLm2CgpSeTw" title="YouTube Video" />
+<YouTubeEmbed videoId="cLm2CgpSeTw" title="How to Check User's Roles" />
 
 :::success Note
 Leave a like on the video if you've found it helpful! 😄

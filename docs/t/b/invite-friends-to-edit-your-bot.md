@@ -11,7 +11,7 @@ Need help? Join our [Discord server](https://dsc.gg/inventutor)!
 
 ## Video Tutorial
 
-<YouTubeEmbed videoId="xErgtlSWFRQ" title="YouTube Video" />
+<YouTubeEmbed videoId="xErgtlSWFRQ" title="How to Invite Friends to edit your bot" />
 
 :::success Note
 Leave a like on the video if you've found it helpful! 😄

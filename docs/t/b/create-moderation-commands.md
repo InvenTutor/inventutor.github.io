@@ -11,7 +11,7 @@ Need help? Join our [Discord server](https://dsc.gg/inventutor)!
 
 ## Video Tutorial
 
-<YouTubeEmbed videoId="ma3aPSiFy5U" title="YouTube Video" />
+<YouTubeEmbed videoId="ma3aPSiFy5U" title="How to create Moderation Commands" />
 
 :::success Note
 Leave a like on the video if you've found it helpful! 😄

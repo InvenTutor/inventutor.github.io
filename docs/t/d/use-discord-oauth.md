@@ -20,7 +20,7 @@ Reason: The old Library listing was deleted during a transition to the new Libra
 
 ## Video Tutorial
 
-<YouTubeEmbed videoId="gQUeAf99m6I" title="YouTube Video" />
+<YouTubeEmbed videoId="gQUeAf99m6I" title="How to use Discord OAuth" />
 
 :::success Note
 Leave a like on the video if you've found it helpful! 😄

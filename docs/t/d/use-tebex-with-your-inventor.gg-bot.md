@@ -20,7 +20,7 @@ Reason: Tebex doesn't seem to allow Discord servers as a shop option anymore.
 
 ## Video Tutorial
 
-<YouTubeEmbed videoId="VscL0hXn9jE" title="YouTube Video" />
+<YouTubeEmbed videoId="VscL0hXn9jE" title="How to use Tebex with your Inventor.gg bot" />
 
 :::success Note
 Leave a like on the video if you've found it helpful! 😄
