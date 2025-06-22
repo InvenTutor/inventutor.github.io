@@ -12,7 +12,7 @@ type YouTubeEmbedProps = {
 export default function YouTubeEmbed({ videoId, title }: YouTubeEmbedProps) {
   const [showVideo, setShowVideo] = useState(false);
   // Construct the YouTube thumbnail URL (hqdefault is high quality)
-  const thumbnailUrl = `https://img.youtube.com/vi/${videoId}/hqdefault.jpg`;
+  const thumbnailUrl = `https://i.ytimg.com/vi/${videoId}/hqdefault.jpg`;
   // Construct the embed URL with privacy-enhanced mode (nocookie)
   const embedUrl = `https://www.youtube-nocookie.com/embed/${videoId}?autoplay=1`;
 
