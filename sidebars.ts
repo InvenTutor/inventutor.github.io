@@ -47,6 +47,7 @@ const sidebars: SidebarsConfig = {
           label: 'Beginner Tutorials',
           link: {type: 'doc', id: 't/b/index'},
           items: [
+            't/b/dm-users',
             't/b/check-users-roles',
             't/b/use-ai-for-free-in-components',
             't/b/invite-friends-to-edit-your-bot',
