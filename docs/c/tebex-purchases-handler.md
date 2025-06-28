@@ -1,4 +1,4 @@
-# Tebex Purchases Handler
+# Tebex Purchases Handler (🚫)
 *Handle Tebex purchases.*
 
 ## Components

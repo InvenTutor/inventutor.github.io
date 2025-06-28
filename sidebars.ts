@@ -25,6 +25,7 @@ const sidebars: SidebarsConfig = {
       link: {type: 'doc', id: 'd/index'},
       items: [
         'd/official-links',
+        'd/labels',
       //  'd/discord-server-rules',
         {
           type: 'category',
@@ -83,7 +84,7 @@ const sidebars: SidebarsConfig = {
         },
         {
           type: 'category',
-          label: 'Deprecated',
+          label: 'Deprecated (🚫)',
           link: {type: 'doc', id: 't/d/index'},
           items: [
             't/d/use-discord-oauth',
@@ -94,7 +95,7 @@ const sidebars: SidebarsConfig = {
     },
     {
       type: 'category',
-      label: '🧩 Plugins',
+      label: '🧩 Plugins (🚫)',
       link: {type: 'doc', id: 'p/index'},
       items: [
         'p/active-developer-badge',
