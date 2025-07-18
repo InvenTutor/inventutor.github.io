@@ -5,7 +5,7 @@
 
 #### Basic TikTok Notifier
 
-- [🪄 Import](https://inventor.gg/dash/share/component/21fa4a22c9bc4eaabed862951334c7c0)
+- [🪄 Import](https://inventor.gg/dash/share/component/130c384a2e964c9fad599f650569a039)
 - [📙 Documentation](#how-to-use)
 
 ***

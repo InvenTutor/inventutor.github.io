@@ -1,21 +1,22 @@
 # Free AI Chat
-*Integrate an Free AI into any of your Components.*
+
+_Integrate an Free AI into any of your Components._
 
 :::tip
 For pre-made commands and more features, use [our Plugin](../p/free-chat-ai.md) instead!
 :::
 
-***
+---
 
 ## Components
 
 #### Free AI Block
 
-- [🪄 Import](https://inventor.gg/dash/share/component/439df1bdb9d84a0f919d8b5363a84fca)
+- [🪄 Import](https://inventor.gg/dash/share/component/841c12b41a7a414084d3b361ce8f57ec)
 - [📙 Documentation](#how-to-use)
 - [🎬 Video Tutorial](../t/b/use-ai-for-free-in-components.md)
 
-***
+---
 
 ## How to Use
 
