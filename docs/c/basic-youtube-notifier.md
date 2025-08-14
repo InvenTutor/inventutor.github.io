@@ -2,10 +2,6 @@
 
 _Get notified of new YouTube uploads from a specific channel._
 
-:::tip
-For multiple channels, fancy UI, and easier integration, use [our Plugin](../p/p/youtube-video-notifier.md) instead!
-:::
-
 ---
 
 ## Components
@@ -27,7 +23,7 @@ Replace `CHANNELID` with the ID of the channel you want to get notified about.
 Do not confuse Channel Handle with Channel ID.
 :::
 
-If you can't find out the Channel ID of the YouTube Channel, use an external tool, or [our bot in our server](https://dsc.gg/inventutor) (TBA)
+If you can't find out the Channel ID of the YouTube Channel, use an external tool.
 
 ### 2. Replace Discord Channel ID in the message block
 

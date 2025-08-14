@@ -118,10 +118,6 @@ const config: Config = {
               label: '💙 Discord',
               href: 'https://dsc.gg/inventutor',
             },
-            {
-              label: '🤍 Merch',
-              href: 'https://inventutor-shop.fourthwall.com',
-            },
           ],
         },
         {

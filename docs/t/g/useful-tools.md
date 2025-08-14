@@ -40,8 +40,4 @@ Hold **Shift** and **click** on the color box to copy the Hex code of the color.
 
 Do you want to make beautiful custom images for free, and customize them freely? Use SharePreviews.
 
-:::info Fun Fact
-This tool is used in our [Birthdays](/p/birthdays.md) plugin!
-:::
-
 - [📎 Visit](https://www.sharepreviews.com/)

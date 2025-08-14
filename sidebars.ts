@@ -94,47 +94,9 @@ const sidebars: SidebarsConfig = {
       ],
     },
     {
-      type: 'category',
+      type: 'doc',
+      id: 'p/index',
       label: '🧩 Plugins (🚫)',
-      link: {type: 'doc', id: 'p/index'},
-      items: [
-        'p/active-developer-badge',
-        'p/basic-moderation-commands',
-        'p/birthdays',
-        'p/character-roleplay',
-        'p/free-chat-ai',
-        'p/invite-tracker',
-        'p/tags-messages',
-        'p/twitch-stream-notifier',
-        {
-          type: 'category',
-          label: 'In Development',
-          link: {type: 'doc', id: 'p/dev/index'},
-          items: [
-            {
-              type: 'category',
-              label: 'ER:LC API Commands',
-              link: {type: 'doc', id: 'p/dev/erlc-api-commands/index'},
-              items: [
-                'p/dev/erlc-api-commands/integrate-api-into-components',
-              ],
-            },
-            'p/dev/roblox-price-changer',
-          ],
-        },
-        {
-          type: 'category',
-          label: 'Planned',
-          link: {type: 'doc', id: 'p/p/index'},
-          items: [
-            'p/p/erlc-roleplay-commands',
-            'p/p/roblox-group-manager',
-            'p/p/youtube-video-notifier',
-            'p/p/bluesky-post-notifier',
-            'p/p/message-manager',
-          ],
-        },
-      ],
     },
     {
       type: 'category',
@@ -145,7 +107,6 @@ const sidebars: SidebarsConfig = {
         'c/discord-api-examples',
         'c/free-ai-chat',
         'c/basic-youtube-notifier',
-        'c/erlc-api-commands-plugin-examples',
         'c/tebex-purchases-handler',
       ],
     },

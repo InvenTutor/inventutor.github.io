@@ -20,11 +20,6 @@ const QuickLinksData = [
     backgroundImage: 'url(/home/mod-cmds.png)', // Make sure this image exists in static/img/
   },
   {
-    title: '🧩 ER:LC API Commands',
-    link: '/p/dev/erlc-api-commands', // Adjust link if this points to a specific API doc
-    backgroundImage: 'url(/home/erlc.png)', // Make sure this image exists in static/img/
-  },
-  {
     title: '💙 Get Support & Chat',
     link: 'https://dsc.gg/inventutor', // External link
     backgroundImage: 'url(/home/discord.png)', // Make sure this image exists in static/img/

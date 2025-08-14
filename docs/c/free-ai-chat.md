@@ -2,10 +2,6 @@
 
 _Integrate an Free AI into any of your Components._
 
-:::tip
-For pre-made commands and more features, use [our Plugin](../p/free-chat-ai.md) instead!
-:::
-
 ---
 
 ## Components
