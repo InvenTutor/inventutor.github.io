@@ -1,60 +1,60 @@
-import {themes as prismThemes} from 'prism-react-renderer';
-import type {Config} from '@docusaurus/types';
-import type * as Preset from '@docusaurus/preset-classic';
+import { themes as prismThemes } from "prism-react-renderer";
+import type { Config } from "@docusaurus/types";
+import type * as Preset from "@docusaurus/preset-classic";
 
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
 const config: Config = {
-  title: 'InvenTutor',
-  tagline: 'The best content for your Inventor.gg bots.',
-  favicon: 'img/favicon.ico',
+  title: "InvenTutor",
+  tagline: "The best content for your Inventor.gg bots.",
+  favicon: "img/favicon.ico",
 
   // Set the production url of your site here
-  url: 'https://inventutor.github.io',
+  url: "https://inventutor.github.io",
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: "/",
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'inventutor', // Usually your GitHub org/user name.
-  projectName: 'inventutor.github.io', // Usually your repo name.
+  organizationName: "inventutor", // Usually your GitHub org/user name.
+  projectName: "inventutor.github.io", // Usually your repo name.
 
-  onBrokenLinks: 'throw',
-  onBrokenMarkdownLinks: 'warn',
+  onBrokenLinks: "throw",
+  onBrokenMarkdownLinks: "warn",
 
   // Even if you don't use internationalization, you can use this field to set
   // useful metadata like html lang. For example, if your site is Chinese, you
   // may want to replace "en" with "zh-Hans".
   i18n: {
-    defaultLocale: 'en',
-    locales: ['en'],
+    defaultLocale: "en",
+    locales: ["en"],
   },
 
   presets: [
     [
-      'classic',
+      "classic",
       {
         docs: {
-          sidebarPath: './sidebars.ts',
-          editUrl: 'https://github.com/InvenTutor/inventutor.github.io/edit/main/',
-          routeBasePath: '/',
-          
+          sidebarPath: "./sidebars.ts",
+          editUrl:
+            "https://github.com/InvenTutor/inventutor.github.io/edit/main/",
+          routeBasePath: "/",
         },
         blog: {
           showReadingTime: true,
           feedOptions: {
-            type: ['rss', 'atom'],
+            type: ["rss", "atom"],
             xslt: true,
           },
-          
+
           // Useful options to enforce blogging best practices
-          onInlineTags: 'warn',
-          onInlineAuthors: 'warn',
-          onUntruncatedBlogPosts: 'warn',
+          onInlineTags: "warn",
+          onInlineAuthors: "warn",
+          onUntruncatedBlogPosts: "warn",
         },
         theme: {
-          customCss: './src/css/custom.css',
+          customCss: "./src/css/custom.css",
         },
       } satisfies Preset.Options,
     ],
@@ -62,71 +62,79 @@ const config: Config = {
 
   themeConfig: {
     // Replace with your project's social card
-    image: 'img/social-cover.png',
+    announcementBar: {
+      id: "deprecation",
+      isCloseable: false,
+      backgroundColor: "#ff7676",
+      textColor: "#000",
+      content:
+        "This content applies to V1 (inventor.gg) only and is not compatible with V2 (inventor.bot). Some links may be broken. Please migrate to V2.",
+    },
+    image: "img/social-cover.png",
     navbar: {
-      title: 'InvenTutor',
+      title: "InvenTutor",
       logo: {
-        alt: 'InvenTutor Logo',
-        src: 'img/logo.svg',
+        alt: "InvenTutor Logo",
+        src: "img/logo.svg",
       },
       items: [
-        { to: '/d', label: '📙 Docs', position: 'left' },
-        { to: '/t', label: '🎬 Tutorials', position: 'left' },
-        { to: '/p', label: '🧩 Plugins', position: 'left' },
-        { to: '/c', label: '⚡ Components', position: 'left' },
+        { to: "/d", label: "📙 Docs", position: "left" },
+        { to: "/t", label: "🎬 Tutorials", position: "left" },
+        { to: "/p", label: "🧩 Plugins", position: "left" },
+        { to: "/c", label: "⚡ Components", position: "left" },
       ],
     },
     footer: {
-      style: 'dark',
+      style: "dark",
       links: [
         {
-          title: 'Content',
+          title: "Content",
           items: [
             {
-              label: '📙 Docs',
-              to: '/d',
+              label: "📙 Docs",
+              to: "/d",
             },
             {
-              label: '🎬 Tutorials',
-              to: '/t',
+              label: "🎬 Tutorials",
+              to: "/t",
             },
             {
-              label: '🧩 Plugins',
-              to: '/p',
+              label: "🧩 Plugins",
+              to: "/p",
             },
             {
-              label: '⚡ Components',
-              to: '/c',
+              label: "⚡ Components",
+              to: "/c",
             },
           ],
         },
         {
-          title: 'Community',
+          title: "Community",
           items: [
             {
-              label: '❤️ YouTube',
-              href: 'https://www.youtube.com/@InvenTutor',
+              label: "❤️ YouTube",
+              href: "https://www.youtube.com/@InvenTutor",
             },
             {
-              label: '💙 Discord',
-              href: 'https://dsc.gg/inventutor',
+              label: "💙 Discord",
+              href: "https://dsc.gg/inventutor",
             },
           ],
         },
         {
-          title: 'More',
+          title: "More",
           items: [
             {
-              label: '📄 Affiliation Disclaimer',
-              to: '/d/l/affiliation-disclaimer',
+              label: "📄 Affiliation Disclaimer",
+              to: "/d/l/affiliation-disclaimer",
             },
             {
-              label: '📌 Useful Tools',
-              href: '/t/g/useful-tools',
+              label: "📌 Useful Tools",
+              href: "/t/g/useful-tools",
             },
             {
-              label: '✨ Contribute Content',
-              href: 'https://github.com/inventutor/inventutor.github.io',
+              label: "✨ Contribute Content",
+              href: "https://github.com/inventutor/inventutor.github.io",
             },
           ],
         },
@@ -134,7 +142,7 @@ const config: Config = {
       copyright: `InvenTutor is not affiliated with Inventor.gg. <a href="/d/l/affiliation-disclaimer">Learn more.</a>`,
     },
     colorMode: {
-      defaultMode: 'dark',
+      defaultMode: "dark",
       disableSwitch: true,
       respectPrefersColorScheme: false,
     },
@@ -144,10 +152,9 @@ const config: Config = {
     },
 
     metadata: [
-      { name: 'theme-color', content: '#fdbd24' },
+      { name: "theme-color", content: "#fdbd24" },
       // { property: 'og:image', content: 'https://inventutor.github.io/img/social-cover.png' },
     ],
-
   } satisfies Preset.ThemeConfig,
 };
 
