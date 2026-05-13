@@ -16,7 +16,7 @@ export default function DeprecationPopup() {
   if (!isVisible) return null;
 
   return (
-    <div className={styles.overlay} onClick={() => setIsVisible(false)}>
+    <div className={styles.overlay}>
       <div className={styles.popup} onClick={(e) => e.stopPropagation()}>
         <h2>Warning</h2>
         <p>
