@@ -21,8 +21,7 @@ export default function DeprecationPopup() {
         <h2>Warning</h2>
         <p>
           This content applies to V1 (inventor.gg) only and is not compatible
-          with V2 (inventor.bot). Some links may be broken. Please migrate to
-          V2.
+          with V2 (inventor.bot). Some links may be broken.
         </p>
         <button onClick={() => setIsVisible(false)}>Got it</button>
       </div>

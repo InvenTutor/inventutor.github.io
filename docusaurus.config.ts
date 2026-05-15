@@ -68,7 +68,7 @@ const config: Config = {
       backgroundColor: "#ff7676",
       textColor: "#000",
       content:
-        "This content applies to V1 (inventor.gg) only and is not compatible with V2 (inventor.bot). Some links may be broken. Please migrate to V2.",
+        "This content applies to V1 (inventor.gg) only and is not compatible with V2 (inventor.bot). Some links may be broken.",
     },
     image: "img/social-cover.png",
     navbar: {
