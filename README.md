@@ -36,5 +36,4 @@ We welcome contributions from the community. Feel free to:
 ## Links
 
 - [Website](https://inventutor.github.io)
-- [Discord Server](https://dsc.gg/inventutor)
 - [YouTube Channel](https://www.youtube.com/@InvenTutor)

@@ -62,14 +62,6 @@ const config: Config = {
 
   themeConfig: {
     // Replace with your project's social card
-    announcementBar: {
-      id: "deprecation",
-      isCloseable: false,
-      backgroundColor: "#ff7676",
-      textColor: "#000",
-      content:
-        "This content applies to V1 (inventor.gg) only and is not compatible with V2 (inventor.bot). Some links may be broken.",
-    },
     image: "img/social-cover.png",
     navbar: {
       title: "InvenTutor",
@@ -77,64 +69,17 @@ const config: Config = {
         alt: "InvenTutor Logo",
         src: "img/logo.svg",
       },
-      items: [
-        { to: "/d", label: "📙 Docs", position: "left" },
-        { to: "/t", label: "🎬 Tutorials", position: "left" },
-        { to: "/p", label: "🧩 Plugins", position: "left" },
-        { to: "/c", label: "⚡ Components", position: "left" },
-      ],
+      items: [],
     },
     footer: {
       style: "dark",
       links: [
         {
-          title: "Content",
-          items: [
-            {
-              label: "📙 Docs",
-              to: "/d",
-            },
-            {
-              label: "🎬 Tutorials",
-              to: "/t",
-            },
-            {
-              label: "🧩 Plugins",
-              to: "/p",
-            },
-            {
-              label: "⚡ Components",
-              to: "/c",
-            },
-          ],
-        },
-        {
-          title: "Community",
+          title: "Links",
           items: [
             {
               label: "❤️ YouTube",
               href: "https://www.youtube.com/@InvenTutor",
-            },
-            {
-              label: "💙 Discord",
-              href: "https://dsc.gg/inventutor",
-            },
-          ],
-        },
-        {
-          title: "More",
-          items: [
-            {
-              label: "📄 Affiliation Disclaimer",
-              to: "/d/l/affiliation-disclaimer",
-            },
-            {
-              label: "📌 Useful Tools",
-              href: "/t/g/useful-tools",
-            },
-            {
-              label: "✨ Contribute Content",
-              href: "https://github.com/inventutor/inventutor.github.io",
             },
           ],
         },
